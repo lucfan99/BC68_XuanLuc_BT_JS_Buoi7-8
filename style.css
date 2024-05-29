@@ -1,0 +1,44 @@
+.container {
+  max-width: 991.5px;
+  background-image: url(./img/img1.jpg);
+  border: 1px solid green;
+  margin-top: 50px;
+  padding: 50px;
+}
+.accordion-body {
+  background-color: transparent;
+  opacity: 0.8;
+}
+.top_content .headering {
+  text-align: center;
+  color: red;
+  font-weight: bold;
+  padding: 12px 0;
+}
+.txt_Output {
+  background-color: rgba(151, 221, 221, 0.71);
+  height: 50px;
+  border-radius: 5px;
+  font-size: 20px;
+  line-height: 50px;
+  padding-left: 20px;
+  margin-top: 10px;
+}
+
+.txt_input {
+  background-color: transparent;
+  color: blue;
+  font-size: 1.5rem;
+  font-weight: 700;
+  height: 50px;
+  line-height: 50px;
+  align-items: center;
+}
+#txtNhapSo {
+  width: 30%;
+  margin-left: 10px;
+}
+#btn_ThemSo {
+  width: 20%;
+  margin-left: 10px;
+}
