@@ -17,6 +17,16 @@
   font-weight: bold;
   padding: 12px 0;
 }
+.btn-dark {
+  background-image: linear-gradient(to left, #ebf8e1, #f69d3c);
+  color: black;
+  transition: all 0.5s;
+}
+.btn-dark:hover {
+  background-image: linear-gradient(to right, #ebf8e1, #f69d3c);
+  color: red;
+  border-color: aquamarine;
+}
 .txt_Output {
   background-color: rgba(151, 221, 221, 0.71);
   height: 50px;
